@@ -1,11 +1,15 @@
 
 
-🦉 Mathematics for Humans | 🖥️ Software Engineering | 🚀 Technology
+👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university.
 
------
+I am interested in & skilled at:
 
-👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL
+  - 🦉 Mathematics for Humans 
+  - 🖥️ Software Engineering
+  - 🚀 Technology
+  - 🎓 Higher Education
 
+### Curriculum Vitae
 
 **Design & Management of Education Programs**
   - **Design of the STEM curriculum** for Mines Paris cycle ingénieur civil program, 
@@ -22,9 +26,9 @@
 
 **Open-source Development**
   - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/):
-    a universal document transformation toolkit. (~4M downloads)
+    a universal document transformation toolkit. (~4M downloads, PyPi "critical" status)
   - 📡 [Bitstream](https://boisgera.github.io/bitstream/):
-    binary streams management for humans. (~ 200k downloads)
+    binary streams management for humans. (~200k downloads)
   - 🐤 [Pioupiou](https://boisgera.github.io/pioupiou/):
     a nano probabilistic programming language.
   - 🪅 [and many more ...](https://github.com/boisgera?tab=repositories)
@@ -40,6 +44,8 @@
   - Programming & Embedded Systems: 
     [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
     [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
+
+
 
 
 
