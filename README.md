@@ -10,8 +10,8 @@ I am interested in & skilled at:
 
 **Design & Management of Education Programs**
 
-  - **Design of the STEM curriculum** for Mines Paris cycle ingénieur civil program, 
-    2018-2021, Paris, France.
+  - **Design of the STEM curriculum**   
+    Mines Paris cycle ingénieur civil program, 2018-2021, Paris, France.
 
   - **Associate Dean of Higher Institute of Control and Software Engineering**   
     Institut Supérieur d'Informatique et Automatique – ISIA, 2000-2007, 
@@ -49,7 +49,5 @@ I am interested in & skilled at:
 
     [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
     [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
-
-
 
 
