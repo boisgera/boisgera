@@ -13,7 +13,7 @@
 **Open-source developer**
   - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/): document transformation toolkit.
   - 📡 [Bitstream](https://boisgera.github.io/bitstream/): binary streams management.
-  - 🐤 [Pioupiou](https://boisgera.github.io/pioupiou/): a nano probabilistic programming. language.
+  - 🐤 [Pioupiou](https://boisgera.github.io/pioupiou/): a nano probabilistic programming language.
   - 🪅 [and many more ...](https://github.com/boisgera?tab=repositories)
 
 **Teaching & Open Education**
