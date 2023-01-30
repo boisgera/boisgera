@@ -5,10 +5,11 @@
   - Institut Supérieur d'Informatique et Automatique.
 
 **Research in Applied Mathematics and Software Engineering**
-  - [ZBMath reviewer](https://zbmath.org/?q=boisg%C3%A9rault)
-  - [Shape Optimization](https://eul.ink/shape-optimization/)
-  - [Control of Delay Systems](http://eul.ink/delay-systems/)
-  - [Software Engineering](https://eul.ink/software-engineering/)
+
+[Software Engineering](https://eul.ink/software-engineering/) |
+[Control of Delay Systems](http://eul.ink/delay-systems/) |
+[Shape Optimization](https://eul.ink/shape-optimization/) |
+[ZBMath reviewer](https://zbmath.org/?q=boisg%C3%A9rault).
 
 **Open-source Development**
   - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/):
@@ -30,4 +31,6 @@
   - Programming & Embedded Systems : 
     - [Python 🇫🇷](https://boisgera.github.io/python-fr/)
     - [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
+
+
 
