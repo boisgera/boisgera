@@ -1,8 +1,12 @@
-### Associate Professor at Center for Robotics, Mines Paris, PSL University.
+👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL
 
-**Design of Education Programs**
-  - Mines Paris PSL cycle ingénieur civil, 
-  - Institut Supérieur d'Informatique et Automatique.
+🦉 Mathematics for Humans | 🖥️ Software Engineering | 🚀 Technology
+
+**Design & Management of Education Programs**
+  - 2018-2021. Design of the STEM curriculum at **Mines Paris cycle ingénieur civil**, 
+    Paris, France.
+  - 2000-2007. Associate Dean of Higher Institute of Control and Software Engineering 
+    (🇫🇷 **Institut Supérieur d'Informatique et Automatique**), Sophia Antipolis, France.
 
 **Research in Applied Mathematics and Software Engineering**
 
@@ -22,15 +26,15 @@
 
 **Teaching & Open Education**
   - Mathematics: 
-    - [Differential, Integral and Stochastic Calculus](https://github.com/boisgera/CDIS)
-    - [Complex Analysis](https://doi.org/10.23646/oer.000001)
+    [Differential, Integral and Stochastic Calculus](https://github.com/boisgera/CDIS) |
+    [Complex Analysis](https://doi.org/10.23646/oer.000001)
   - Control Engineering, Robotics and Signal Processing: 
-     - [Control Engineering with Python](https://github.com/boisgera/python-fr)
-     -  [Robotics](http://eul.ink/robotics/)
-     - [Digital Audio Coding](https://eul.ink/audio/)
-  - Programming & Embedded Systems : 
-    - [Python 🇫🇷](https://boisgera.github.io/python-fr/)
-    - [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
+     [Control Engineering with Python](https://github.com/boisgera/python-fr) |
+     [Robotics](http://eul.ink/robotics/) |
+     [Digital Audio Coding](https://eul.ink/audio/).
+  - Programming & Embedded Systems: 
+    [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
+    [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
 
 
 
