@@ -1,12 +1,17 @@
-👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL
+
 
 🦉 Mathematics for Humans | 🖥️ Software Engineering | 🚀 Technology
 
+-----
+
+👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL
+
+
 **Design & Management of Education Programs**
-  - 2018-2021. Design of the STEM curriculum at **Mines Paris cycle ingénieur civil**, 
-    Paris, France.
-  - 2000-2007. Associate Dean of Higher Institute of Control and Software Engineering 
-    (🇫🇷 **Institut Supérieur d'Informatique et Automatique**), Sophia Antipolis, France.
+  - **Design of the STEM curriculum** for Mines Paris cycle ingénieur civil program, 
+    2018-2021, Paris, France.
+  -  **Associate Dean of Higher Institute of Control and Software Engineering** 
+    (🇫🇷 Institut Supérieur d'Informatique et Automatique – ISIA), 2000-2007, Sophia Antipolis, France.
 
 **Research in Applied Mathematics and Software Engineering**
 
