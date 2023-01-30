@@ -1,6 +1,3 @@
-
-
-
 👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university. 
 I am interested in & skilled at:
 
@@ -16,8 +13,7 @@ I am interested in & skilled at:
   - **Design of the STEM curriculum** for Mines Paris cycle ingénieur civil program, 
     2018-2021, Paris, France.
 
-  -  **Associate Dean of Higher Institute of Control and Software Engineering** 
-
+  - **Associate Dean of Higher Institute of Control and Software Engineering**   
     Institut Supérieur d'Informatique et Automatique – ISIA, 2000-2007, 
     Sophia Antipolis, France.
 
@@ -53,4 +49,7 @@ I am interested in & skilled at:
 
     [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
     [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
+
+
+
 
