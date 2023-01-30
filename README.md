@@ -1,15 +1,14 @@
 
 
-👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university.
 
-I am interested in & skilled at:
+👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university. I am interested in & skilled at:
 
   - 🦉 Mathematics for Humans 
   - 🖥️ Software Engineering
   - 🚀 Technology
   - 🎓 Higher Education
 
-### Curriculum Vitae
+### Short Curriculum Vitae
 
 **Design & Management of Education Programs**
   - **Design of the STEM curriculum** for Mines Paris cycle ingénieur civil program, 
@@ -35,16 +34,20 @@ I am interested in & skilled at:
 
 **Teaching & Open Education**
   - Mathematics: 
+
     [Differential, Integral and Stochastic Calculus](https://github.com/boisgera/CDIS) |
     [Complex Analysis](https://doi.org/10.23646/oer.000001)
+
   - Control Engineering, Robotics and Signal Processing: 
+
      [Control Engineering with Python](https://github.com/boisgera/python-fr) |
      [Robotics](http://eul.ink/robotics/) |
      [Digital Audio Coding](https://eul.ink/audio/).
+
   - Programming & Embedded Systems: 
+
     [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
     [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
-
 
 
 
