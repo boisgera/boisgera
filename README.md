@@ -10,8 +10,8 @@
   - [Control of Delay Systems](http://eul.ink/delay-systems/)
   - [Software Engineering](https://eul.ink/software-engineering/)
 
-**Open-source developer**
-  - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/): document transformation toolkit.
+**Open-source Development**
+  - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/). The universal document transformation toolkit. [![Downloads](https://static.pepy.tech/badge/pandoc)](https://pepy.tech/project/pandoc)
   - 📡 [Bitstream](https://boisgera.github.io/bitstream/): binary streams management.
   - 🐤 [Pioupiou](https://boisgera.github.io/pioupiou/): a nano probabilistic programming language.
   - 🪅 [and many more ...](https://github.com/boisgera?tab=repositories)
