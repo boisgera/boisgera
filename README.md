@@ -12,7 +12,6 @@ I am invested in & skilled at:
 
   - **Design of the STEM curriculum**   
     🏦 Mines Paris cycle ingénieur civil program, 2018-2021, Paris, France.
-
   - **Associate Dean of Higher Institute of Control and Software Engineering**   
     🏦 Institut Supérieur d'Informatique et Automatique – ISIA, 2000-2007, 
     Sophia Antipolis, France.
