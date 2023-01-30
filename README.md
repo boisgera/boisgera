@@ -6,7 +6,7 @@ I am interested in & skilled at:
   - 🚀 Technology
   - 🎓 Higher Education
 
-### Short Curriculum Vitae
+### Short Curriculum Vitae & Links to Resources
 
 **Design & Management of Education Programs**
 
@@ -47,7 +47,9 @@ I am interested in & skilled at:
 
   - Programming & Embedded Systems: 
 
-    [Python 🇫🇷](https://boisgera.github.io/python-fr/) |
-    [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino).
+    🐍 [Python](https://boisgera.github.io/python-fr/) |
+    <img src="https://eul.ink/go/icons/favicon.ico"></img>[Go and TinyGo](https://eul.ink/go/).
+
+
 
 
