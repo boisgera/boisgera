@@ -20,7 +20,7 @@ I am invested in & skilled at:
 #### Research in Applied Mathematics and Software Engineering
 
   - 💻 [Software Engineering](https://eul.ink/software-engineering/)
-  - 🧞 [Control of Delay Systems](http://eul.ink/delay-systems/) |
+  - 🧞 [Control of Delay Systems](http://eul.ink/delay-systems/)
   - ✈️ [Shape Optimization](https://eul.ink/shape-optimization/)
 
   - 📖 [ZBMath (reviewer)](https://zbmath.org/?q=boisg%C3%A9rault).
@@ -47,7 +47,7 @@ I am invested in & skilled at:
 ##### Control Engineering, Robotics and Signal Processing
 
   - 🧞 [Control Engineering with Python](https://github.com/boisgera/python-fr)
-  - 🤖 [Robotics](http://eul.ink/robotics/) |
+  - 🤖 [Robotics](http://eul.ink/robotics/)
   - 🎧 [Digital Audio Coding](https://eul.ink/audio/).
 
 ##### Programming, Embedded Systems and IoT
