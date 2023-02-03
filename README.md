@@ -44,7 +44,7 @@ I am invested in & skilled at:
 
 ##### Control Engineering, Robotics and Signal Processing
 
-  - 🧞 [Control Engineering with Python](https://github.com/boisgera/python-fr)
+  - 🧞 [Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python#readme)
   - 🤖 [Robotics](http://eul.ink/robotics/)
   - 🎧 [Digital Audio Coding](https://eul.ink/audio/).
 
