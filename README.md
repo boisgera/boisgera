@@ -7,8 +7,6 @@
 
 #### Management
 
-Currently:
-
   - **Executive team member of the "Institute for Digital Transformations"**  
     🏦 ITN (🇫🇷 https://itn.dev/).
 
