@@ -6,12 +6,13 @@ I am invested in & skilled at:
   - 🚀 Technology
   - 🎓 Higher Education
 
-### Short Curriculum Vitae & Links to Resources
+#### Management
 
-#### Design & Management of Education Programs
+  - 2023 - now. **Executive team member of the "Institute for Digital Transformations"** of Mines Paris – PSL University.
 
-  - **Design of the STEM curriculum**   
+  - **Designer of the STEM curriculum**   
     🏦 Mines Paris cycle ingénieur civil program, 2018-2021, Paris, France.
+    
   - **Associate Dean of Higher Institute of Control and Software Engineering**   
     🏦 Institut Supérieur d'Informatique et Automatique – ISIA, 2000-2007, 
     Sophia Antipolis, France.
