@@ -7,13 +7,17 @@
 
 #### Management
 
-  - 2023–now. **Executive team member of the "Institute for Digital Transformations"**
+Now:
+
+  - **Executive team member of the "Institute for Digital Transformations"**  
     🏦 ITN (🇫🇷 https://itn.dev/).
 
-  - 2018–2021. **Designer of the STEM curriculum**   
+Past:
+
+  - **Designer of the new STEM curriculum** (2018–2021)   
     🏦 Mines Paris "cycle ingénieur civil" program.
     
-  - 2000-2007. **Associate Dean of Higher Institute of Control and Software Engineering**   
+  - **Associate Dean of Higher Institute of Control and Software Engineering** (2000-2007)   
     🏦 Institut Supérieur d'Informatique et Automatique – ISIA.
 
 #### Research in Applied Mathematics and Software Engineering
