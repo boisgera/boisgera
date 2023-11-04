@@ -7,12 +7,12 @@
 
 #### Management
 
-Now:
+Currently:
 
   - **Executive team member of the "Institute for Digital Transformations"**  
     🏦 ITN (🇫🇷 https://itn.dev/).
 
-Past:
+Formerly:
 
   - **Designer of the new STEM curriculum** (2018–2021)   
     🏦 Mines Paris "cycle ingénieur civil" program.
