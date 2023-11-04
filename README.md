@@ -7,7 +7,7 @@
 
 #### Management
 
-  - **Executive team member of the "Institute for Digital Transformations"**  
+  - **Executive team member of the "Institute for Digital Transformations"** (2023)
     🏦 ITN (🇫🇷 https://itn.dev/).
 
 Formerly:
