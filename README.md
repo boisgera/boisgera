@@ -1,21 +1,20 @@
-👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university. 
-I am invested in & skilled at:
+👋 Hi! I am an associate professor at 🏦 Mines Paris – PSL university (France), interested in:
 
   - 🦉 Mathematics for Humans 
   - 🖥️ Software Engineering
-  - 🚀 Technology
+  - 🚀 Digital Technology
   - 🎓 Higher Education
 
 #### Management
 
-  - 2023 - now. **Executive team member of the "Institute for Digital Transformations"** of Mines Paris – PSL University.
+  - 2023–now. **Executive team member of the "Institute for Digital Transformations"**
+    🏦 ITN (🇫🇷 https://itn.dev/).
 
-  - **Designer of the STEM curriculum**   
-    🏦 Mines Paris cycle ingénieur civil program, 2018-2021, Paris, France.
+  - 2018–2021. **Designer of the STEM curriculum**   
+    🏦 Mines Paris "cycle ingénieur civil" program.
     
-  - **Associate Dean of Higher Institute of Control and Software Engineering**   
-    🏦 Institut Supérieur d'Informatique et Automatique – ISIA, 2000-2007, 
-    Sophia Antipolis, France.
+  - 2000-2007. **Associate Dean of Higher Institute of Control and Software Engineering**   
+    🏦 Institut Supérieur d'Informatique et Automatique – ISIA.
 
 #### Research in Applied Mathematics and Software Engineering
 
