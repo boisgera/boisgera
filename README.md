@@ -7,7 +7,7 @@
 
 #### Management
 
-  - **Executive team member of the "Institute for Digital Transformations"** (2023)  
+  - **Technological advisor of the "Institute for Digital Transformations"** (2023)  
     🏦 ITN (🇫🇷 https://itn.dev/).
 
 Formerly:
@@ -23,11 +23,15 @@ Formerly:
   - 💻 [Software Engineering](https://eul.ink/software-engineering/)
   - 🧞 [Control of Delay Systems](http://eul.ink/delay-systems/)
   - ✈️ [Shape Optimization](https://eul.ink/shape-optimization/)
-  - 📖 [ZBMath (reviewer)](https://zbmath.org/?q=boisg%C3%A9rault).
   - 📖 [HAL open science](https://hal.science/search/index?q=%22S%C3%A9bastien+Boisg%C3%A9rault%22)
   - 📖 [arxiv](https://arxiv.org/search/?query=boisg%C3%A9rault&searchtype=all&source=header)
 
-#### Open-source Development
+### Open Science  
+
+  - 📖 [JOSS editor](https://joss.theoj.org/)
+  - 📖 [ZBMath (reviewer)](https://zbmath.org/?q=boisg%C3%A9rault)
+
+#### Open-Source Development
 
   - 📖 [Pandoc (Python)](https://boisgera.github.io/pandoc/):
     a universal document transformation toolkit. (~4M downloads, PyPi "critical" status)
