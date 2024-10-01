@@ -29,7 +29,7 @@ Formerly:
 ### Open Science  
 
   - 📖 [JOSS editor](https://joss.theoj.org/)
-  - 📖 [ZBMath (reviewer)](https://zbmath.org/?q=boisg%C3%A9rault)
+  - 📖 [ZBMath reviewer](https://zbmath.org/?q=boisg%C3%A9rault)
 
 #### Open-Source Development
 
