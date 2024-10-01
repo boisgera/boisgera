@@ -26,7 +26,7 @@ Formerly:
   - 📖 [HAL open science](https://hal.science/search/index?q=%22S%C3%A9bastien+Boisg%C3%A9rault%22)
   - 📖 [arxiv](https://arxiv.org/search/?query=boisg%C3%A9rault&searchtype=all&source=header)
 
-#### Open Science  
+#### Open Science & Community  
 
   - 📖 [JOSS editor](https://joss.theoj.org/)
   - 📖 [ZBMath reviewer](https://zbmath.org/?q=boisg%C3%A9rault)
