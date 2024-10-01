@@ -52,12 +52,12 @@ Formerly:
 
   - 🧞 [Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python#readme)
   - 🤖 [Robotics](http://eul.ink/robotics/)
-  - 🎧 [Digital Audio Coding](https://eul.ink/audio/).
+  - 🎧 [Digital Audio Coding](https://eul.ink/audio/)
 
 ##### Programming, Embedded Systems and IoT
 
   - 🐍 [Python](https://boisgera.github.io/python-fr/)
-  - 🦫 [Go and TinyGo](https://eul.ink/go/).
+  - 🦫 [Go and TinyGo](https://eul.ink/go/)
 
 
 
