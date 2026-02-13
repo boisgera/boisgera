@@ -7,7 +7,7 @@
 
 #### Management
 
-  - **Technological advisor of the "Institute for Digital Transformations"** (2023-now)  
+  - **Technological advisor (Institute for Digital Transformations)** (2023-now)  
     🏦 ITN (🇫🇷 https://itn.dev/).
 
 Formerly:
