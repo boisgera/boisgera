@@ -59,7 +59,7 @@ Formerly:
   - 🐍 [Python](https://boisgera.github.io/python-fr/)
   - 🐍 [Async Python](https://github.com/boisgera/asyncio)
   - 🐍 [Distributed Python (with NATS)](https://github.com/boisgera/NATS#readme)
-  - 🦫 [TinyGo for Arnduino](https://github.com/boisgera/tinygo-arduino#readme)
+  - 🦫 [TinyGo for Arduino](https://github.com/boisgera/tinygo-arduino#readme)
   - 🦫 [From Python to Go](https://github.com/boisgera/python-to-go#readme)
   - 🦫 [Go concurrency](https://github.com/boisgera/go-concurrency#readme)
   - 🦫 [Go and Distributed systems](https://github.com/boisgera/go-and-distributed-systems#readme)
