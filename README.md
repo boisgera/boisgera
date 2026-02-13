@@ -48,6 +48,10 @@ Formerly:
   - 🧮 [Differential, Integral and Stochastic Calculus](https://github.com/boisgera/CDIS)
   - 🧮 [Complex Analysis](https://doi.org/10.23646/oer.000001)
 
+##### Machine Learning
+
+  - 🧠 [Machine Learning with Pytorch](https://github.com/boisgera/pytorch#readme)
+
 ##### Control Engineering, Robotics and Signal Processing
 
   - 🧞 [Control Engineering with Python](https://github.com/boisgera/control-engineering-with-python#readme)
